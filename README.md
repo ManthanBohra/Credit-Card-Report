@@ -10,6 +10,7 @@ Import data to SQL database<br>
 • Revenue increased by 28.8%, <br>
 • Total Transaction Amt & Count increased by xx% & xx%<br>
  • Customer count increased by xx%<br>
+ <br>
  Overview YTD:<br>
  • Overall revenue is 57M<br>
  • Total interest is 8M <br>
