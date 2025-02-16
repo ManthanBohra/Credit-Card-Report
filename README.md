@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard
+# Credit_Card_Report
 Credit Card Transaction and Customer Dashboard using Power BI and SQL <br>
 Import data to SQL database<br>
  1. Prepare csv file <br>
